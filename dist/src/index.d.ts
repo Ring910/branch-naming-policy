@@ -1,0 +1,15 @@
+declare const core: any;
+declare const github: any;
+declare const token: any;
+declare const octokit: any;
+declare const eventPayload: any;
+declare const event_name: string | undefined;
+declare const owner: any;
+declare const repo: any;
+declare const sender: any;
+declare const ref: any;
+declare const ref_type: any;
+declare const regex: any;
+declare const flags: any;
+declare const re: RegExp;
+declare const delete_issue: any;
